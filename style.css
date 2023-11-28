@@ -1,0 +1,76 @@
+section  input {
+    background-color: rgb(253, 226, 230);
+    border-color: rgb(195, 68, 89);
+    padding: 5px;
+    margin: 1px;
+    padding-left: 20px;
+}
+
+div button {
+    background-color: rgb(250, 160, 178);
+    border-color: rgb(195, 68, 89);
+    padding: 5px;
+    margin: 1px;
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    
+}
+
+main {
+    background-color: rgb(252, 212, 219);
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color:rgb(195, 68, 89);
+}
+
+#btn-c {
+    width: 102px;
+}
+
+#btn-equal {
+    width: 66px;
+}
+
+.btn-container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 1px;
+}
+
+.display {
+    display: flex;
+}
+
+#displayContent {
+    background-color:rgb(197, 69, 90);
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding: 10px;
+    width: 120px;
+    height: 15px;
+}
+
+/* .btn {
+    width: 50px;
+    height: 50px;
+    margin: 0 7.5px;
+    text-align: center;
+    color: #fff;
+    background-color: rgb(255, 189, 200));
+    font-weight: bold;
+    font-size: 18px;
+} */
